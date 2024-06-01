@@ -1,7 +1,7 @@
 # first draft, just a copy of the template.
 
 Project Title
-This project is a part of the AAI-XXX course in the Applied Artificial Intelligence Program at the
+This project is a part of the AAI-500 course in the Applied Artificial Intelligence Program at the
 University of San Diego (USD).
 -- Project Status: [Planned, Active, On-hold, Completed]
 Installation
