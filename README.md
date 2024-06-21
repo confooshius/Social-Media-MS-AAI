@@ -45,6 +45,24 @@ number of variables, size of dataset, etc. Include data dictionary, if available
 and hypothesis that you are exploring. What specific data analysis, visualization, and modeling
 work are you using to solve the problem? What roadblocks and challenges are you facing? etc.
 
+Dataset Features¶
+User_ID: Unique identifier for the user.
+Age: Age of the user.
+Gender: Gender of the user (Female, Male, Non-binary).
+Platform: Social media platform used (e.g., Instagram, Twitter, Facebook, LinkedIn, Snapchat, WhatsApp, Telegram).
+Daily_Usage_Time (minutes): Daily time spent on the platform in minutes.
+Posts_Per_Day: Number of posts made per day.
+Likes_Received_Per_Day: Number of likes received per day.
+Comments_Received_Per_Day: Number of comments received per day.
+Messages_Sent_Per_Day: Number of messages sent per day.
+Dominant_Emotion: User's dominant emotional state during the day (e.g., Happiness, Sadness, Anger, Anxiety, Boredom, Neutral).
+
+SOURCES
+The data for this dataset was generated using a hypothetical survey-based methodology, designed to simulate real-world social media usage patterns and the corresponding emotional states of users. The dataset was meticulously researched and prepared by AI Inventor Emirhan BULUT. The data points were crafted to represent a diverse set of users from various social media platforms, capturing their daily activities and emotional responses.
+
+COLLECTION METHODOLOGY
+The data was collected through a hypothetical survey where participants were asked about their daily social media usage, including the amount of time spent on different platforms, the number of posts made, likes and comments received, and messages sent. Additionally, participants reported their dominant emotional state at the end of each day. Responses were then collated and structured into three different files: `train.csv`, `test.csv`, and `val.csv`, each serving a specific purpose in data analysis and machine learning model training and validation.
+
 License
 You can add under what license your project is. As a good practice, add LICENSE file in your
 project folder as well.
