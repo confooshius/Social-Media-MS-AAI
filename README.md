@@ -7,7 +7,7 @@ Installation
 You should add an instruction how this project to be used, installed, run, edited in others’
 machine.
 
-All of our gathered metrics are stored in an ipynb notebook. To run it you will need to install Python version 3.11 or later.
+All of our gathered metrics are stored in a Jupyter notebook. To run it you will need to install Python version 3.11 or later.
 
 You will need to install some modules using PiP, Conda, or your preferred installation method. 
 
@@ -21,9 +21,8 @@ The main purpose of this project is to determine if there is a correlation betwe
 
 https://www.kaggle.com/datasets/emirhanai/social-media-usage-and-emotional-well-being
 
-Our goal is to analyze what effects if any social media has on our emotions through metrics inherent to social media usage. Metrics like likes per day,
+Our goal is to analyze what effects if any social media has on our emotions through metrics inherent to social media usage. Metrics such as Likes Per Day,
 amount of time spent on social media, and more.
-
 
 Partner(s)/Contributor(s)
 • Gurleen Virk
@@ -31,21 +30,14 @@ Partner(s)/Contributor(s)
 • Victor Hsu
 
 Methods Used
-• Inferential Statistics
-• NLP
-• Computer Vision
-• Machine Learning
-• Deep Learning
-• Ethics for AI
-• Data Visualization
-• IoT
-• Cloud Computing
-• Data Manipulation
-• Case Studies
-• etc.
+• Inferential Statistics (Pairwise T-Tests, Chi-squared Test, Hypothesis testing, Linear Regression)
+• Machine Learning (Random Forest, K-means Clustering)
+• Data Cleaning and preprocessing
+• Descriptive Statistics (Histograms, Bar plots, Box plots, Scatterplots, Outlier Detection)
+
 Technologies
 • Python
-• ipynb notebook
+• Jupyter Notebook
 
 Project Description
 Discuss the details of project overview. Description your selected dataset, such as data source,
