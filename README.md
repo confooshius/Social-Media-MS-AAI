@@ -67,6 +67,9 @@ License
 You can add under what license your project is. As a good practice, add LICENSE file in your
 project folder as well.
 
+Dataset License
+https://www.mit.edu/~amini/LICENSE.md
+
 Acknowledgments
 You can mention and thank your professors and those who technically helped you during the
 project.
