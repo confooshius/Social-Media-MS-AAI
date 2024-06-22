@@ -2,7 +2,9 @@ Exploring the Correlation Between Social Media Usage and Emotional Wellbeing
 
 This project is a part of the AAI-500 course in the Applied Artificial Intelligence Program at the
 University of San Diego (USD).
--- Project Status: [Completed]
+
+Project Status: [Completed]
+
 Installation
 You should add an instruction how this project to be used, installed, run, edited in others’
 machine.
@@ -63,13 +65,17 @@ The data for this dataset was generated using a hypothetical survey-based method
 COLLECTION METHODOLOGY
 The data was collected through a hypothetical survey where participants were asked about their daily social media usage, including the amount of time spent on different platforms, the number of posts made, likes and comments received, and messages sent. Additionally, participants reported their dominant emotional state at the end of each day. Responses were then collated and structured into three different files: `train.csv`, `test.csv`, and `val.csv`, each serving a specific purpose in data analysis and machine learning model training and validation.
 
-License
-You can add under what license your project is. As a good practice, add LICENSE file in your
-project folder as well.
+MODELING WORK
+Linear regression was used to draw correlations between independent variables of engagement (likes, posts, comments, etc.), daily usage versus the dependent variable of the dominant emotion.
+Additional conclusions were verified and drawn from k-means clustering and random forest. k-means clustering confirmed the correlation between daily usage and dominant emotion, while random forest showed the precision of being able to predict emotion from our independent variables.
 
-Dataset License
-https://www.mit.edu/~amini/LICENSE.md
+ROADBLOCKS/CHALLENGES
+
+Modeling - There was a struggle here because of the categorical nature of dominant emotion, once we learned about the dummy method, that helped with forming conclusions for linear regression. There was also a struggle with multicollinearity for the independent variables, which we resolved by standardizing all relevant variables (found with coefficiency matrix/ random forest importance) and forming it into a single variable (overall engagement).
+
+License
+
+Dataset License: https://www.mit.edu/~amini/LICENSE.md
 
 Acknowledgments
-You can mention and thank your professors and those who technically helped you during the
-project.
+Special acknowledgements towards my team who stayed motivated, showed patience and kindness while making progress towards our final results and conclusions.
