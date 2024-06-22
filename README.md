@@ -78,4 +78,4 @@ License
 Dataset License: https://www.mit.edu/~amini/LICENSE.md
 
 Acknowledgments
-Special acknowledgements towards my team who stayed motivated, showed patience and kindness while making progress towards our final results and conclusions.
+Special acknowledgements towards the team who stayed motivated, showed patience and kindness while making progress towards our final results and conclusions.
