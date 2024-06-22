@@ -57,7 +57,7 @@ Dataset Features:
 
 • Platform: Social media platform used (e.g., Instagram, Twitter, Facebook, LinkedIn, Snapchat, WhatsApp, Telegram)
 
-• Daily_Usage_Time (minutes): Daily time spent on the platform in minutes
+• Daily_Usage_Minutes: Daily time spent on the platform in minutes
 
 • Posts_Per_Day: Number of posts made per day
 
