@@ -48,16 +48,16 @@ and hypothesis that you are exploring. What specific data analysis, visualizatio
 work are you using to solve the problem? What roadblocks and challenges are you facing? etc.
 
 Dataset Features¶
-User_ID: Unique identifier for the user.
-Age: Age of the user.
-Gender: Gender of the user (Female, Male, Non-binary).
-Platform: Social media platform used (e.g., Instagram, Twitter, Facebook, LinkedIn, Snapchat, WhatsApp, Telegram).
-Daily_Usage_Time (minutes): Daily time spent on the platform in minutes.
-Posts_Per_Day: Number of posts made per day.
-Likes_Received_Per_Day: Number of likes received per day.
-Comments_Received_Per_Day: Number of comments received per day.
-Messages_Sent_Per_Day: Number of messages sent per day.
-Dominant_Emotion: User's dominant emotional state during the day (e.g., Happiness, Sadness, Anger, Anxiety, Boredom, Neutral).
+• User_ID: Unique identifier for the user
+• Age: Age of the user
+• Gender: Gender of the user (Female, Male, Non-binary)
+• Platform: Social media platform used (e.g., Instagram, Twitter, Facebook, LinkedIn, Snapchat, WhatsApp, Telegram)
+• Daily_Usage_Time (minutes): Daily time spent on the platform in minutes
+• Posts_Per_Day: Number of posts made per day
+Likes_Received_Per_Day: Number of likes received per day
+• Comments_Received_Per_Day: Number of comments received per day
+• Messages_Sent_Per_Day: Number of messages sent per day
+• Dominant_Emotion: User's dominant emotional state during the day (e.g., Happiness, Sadness, Anger, Anxiety, Boredom, Neutral)
 
 SOURCES
 The data for this dataset was generated using a hypothetical survey-based methodology, designed to simulate real-world social media usage patterns and the corresponding emotional states of users. The dataset was meticulously researched and prepared by AI Inventor Emirhan BULUT. The data points were crafted to represent a diverse set of users from various social media platforms, capturing their daily activities and emotional responses.
