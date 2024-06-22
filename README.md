@@ -9,7 +9,7 @@ Installation
 You should add an instruction how this project to be used, installed, run, edited in others’
 machine.
 
-All of our gathered metrics are stored in a Jupyter notebook. To run it you will need to install Python version 3.11 or later.
+All of our gathered metrics are stored in a Jupyter notebook, specifically Social_Media_Notebook_v9.ipynb. To run it you will need to install Python version 3.11 or later.
 
 You will need to install some modules using PiP, Conda, or your preferred installation method. 
 
