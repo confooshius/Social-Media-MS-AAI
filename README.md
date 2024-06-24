@@ -40,6 +40,13 @@ Technologies
 • Jupyter Notebook
 
 Project Description
+Investigating the relationship between social media usage and emotional wellbeing, aiming to uncover patterns and correlations that may exist between various aspects of social media interaction and users' emotional states. The analysis utilizes a large dataset consisting of self-reported emotional wellbeing scores and detailed social media usage metrics. Employing statistical tests and model analysis, we identify significant trends and evaluate the potential impact of social media habits on emotional health.
+
+We will experiment with different statistical tests and models to determine important patterns and correlations. Through regression analysis, correlations tests and machine learning models, we can measure how much the observed social media habits and/or identities can be influencing emotional health.
+
+Hypotheses:
+  - Null Hypothesis: No association between social media usage patterns and the user’s dominant emotion.
+  - Alternate Hypothesis: There is an association between social media usage patterns and the user’s dominant emotion.
 
 Dataset Features:
 
