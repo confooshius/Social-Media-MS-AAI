@@ -6,8 +6,6 @@ University of San Diego (USD).
 Project Status: [Completed]
 
 Installation
-You should add an instruction how this project to be used, installed, run, edited in others’
-machine.
 
 All of our gathered metrics are stored in a Jupyter notebook, specifically Social_Media_Notebook_v9.ipynb. To run it you will need to install Python version 3.11 or later.
 
@@ -42,10 +40,6 @@ Technologies
 • Jupyter Notebook
 
 Project Description
-Discuss the details of project overview. Description your selected dataset, such as data source,
-number of variables, size of dataset, etc. Include data dictionary, if available. Provide questions
-and hypothesis that you are exploring. What specific data analysis, visualization, and modeling
-work are you using to solve the problem? What roadblocks and challenges are you facing? etc.
 
 Dataset Features:
 
